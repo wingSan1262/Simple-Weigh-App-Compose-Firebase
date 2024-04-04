@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "281184549161",
+    "firebase_url": "https://sawit-pro-4761d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sawit-pro-4761d",
+    "storage_bucket": "sawit-pro-4761d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281184549161:android:8487555377a040c7199f38",
+        "android_client_info": {
+          "package_name": "com.example.sawitprotest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj0Hl2Dk34e1yJJl3e1W89P3CZvNiYmx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
