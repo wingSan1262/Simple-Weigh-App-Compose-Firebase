@@ -1,7 +1,7 @@
 # Simple-Weigh-App-Compose-Firebase
 
 DEMO
-
+https://www.youtube.com/watch?v=JQ6lsqgpy5M
 
 BUILD TEST
 ./gradlew jacocoTestReport
